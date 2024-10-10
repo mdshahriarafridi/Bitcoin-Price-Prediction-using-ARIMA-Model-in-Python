@@ -2,7 +2,6 @@
 
 💡 Model Used: ARIMA  
 💼 Data Source: Bitcoin price data from Yahoo Finance in USD
-
 🔗 Time Period: Sept 17, 2014 to October 10, 2024
 
 ### Model Summary:
