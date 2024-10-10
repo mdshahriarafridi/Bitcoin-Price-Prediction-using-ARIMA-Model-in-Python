@@ -1,7 +1,8 @@
 ## Bitcoin Price Prediction using ARIMA Model in Python
 
 - 💡 Model Used: Autoregressive Integrated Moving Average (ARIMA)
-- 💼 Data Source: Bitcoin price data from Yahoo Finance in USD (From Sept 17, 2014 to October 10, 2024)
+- 💼 Data Source: Bitcoin price data from Yahoo Finance in USD
+- 🔗 Time Period: Sept 17, 2014 to October 10, 2024
 
 ### Model Summary:
 1. The MAPE of 1.94% shows the model makes relatively 98.06% accurate predictions.
