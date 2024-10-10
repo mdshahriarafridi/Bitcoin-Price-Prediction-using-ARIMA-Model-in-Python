@@ -1,4 +1,4 @@
-# Bitcoin Price Prediction using ARIMA Model in Python
+## Bitcoin Price Prediction using ARIMA Model in Python
 
 💡 Model Used: ARIMA  
 💼 Data Source: Bitcoin price data from Yahoo Finance in USD
