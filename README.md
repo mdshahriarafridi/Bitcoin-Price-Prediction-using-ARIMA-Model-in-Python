@@ -4,6 +4,7 @@
 💼 Data Source: Bitcoin price data from Yahoo Finance in USD
 🔗 Time Period: Sept 17, 2014 to October 10, 2024
 
+
 ### Model Summary:
 1. The MAPE of 1.94% shows the model makes relatively 98.06% accurate predictions.
 2. The MSE and RMSE values, while large, are in line with the scale of the dataset.
